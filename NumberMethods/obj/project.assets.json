@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\BRD\\Training\\CS\\NumberMethods\\NumberMethods.csproj",
+      "projectUniqueName": "P:\\BRD\\Training\\CS\\fantastic-funicular\\NumberMethods\\NumberMethods.csproj",
       "projectName": "NumberMethods",
-      "projectPath": "P:\\BRD\\Training\\CS\\NumberMethods\\NumberMethods.csproj",
+      "projectPath": "P:\\BRD\\Training\\CS\\fantastic-funicular\\NumberMethods\\NumberMethods.csproj",
       "packagesPath": "C:\\Users\\carlvinm\\.nuget\\packages\\",
-      "outputPath": "P:\\BRD\\Training\\CS\\NumberMethods\\obj\\",
+      "outputPath": "P:\\BRD\\Training\\CS\\fantastic-funicular\\NumberMethods\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\carlvinm\\AppData\\Roaming\\NuGet\\NuGet.Config",

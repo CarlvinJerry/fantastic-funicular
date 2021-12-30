@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\BRD\\Training\\CS\\methods\\methods.csproj": {}
+    "P:\\BRD\\Training\\CS\\fantastic-funicular\\methods\\methods.csproj": {}
   },
   "projects": {
-    "P:\\BRD\\Training\\CS\\methods\\methods.csproj": {
+    "P:\\BRD\\Training\\CS\\fantastic-funicular\\methods\\methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\BRD\\Training\\CS\\methods\\methods.csproj",
+        "projectUniqueName": "P:\\BRD\\Training\\CS\\fantastic-funicular\\methods\\methods.csproj",
         "projectName": "methods",
-        "projectPath": "P:\\BRD\\Training\\CS\\methods\\methods.csproj",
+        "projectPath": "P:\\BRD\\Training\\CS\\fantastic-funicular\\methods\\methods.csproj",
         "packagesPath": "C:\\Users\\carlvinm\\.nuget\\packages\\",
-        "outputPath": "P:\\BRD\\Training\\CS\\methods\\obj\\",
+        "outputPath": "P:\\BRD\\Training\\CS\\fantastic-funicular\\methods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carlvinm\\AppData\\Roaming\\NuGet\\NuGet.Config",

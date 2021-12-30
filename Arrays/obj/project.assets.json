@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\BRD\\Training\\CS\\Arrays\\Arrays.csproj",
+      "projectUniqueName": "P:\\BRD\\Training\\CS\\fantastic-funicular\\Arrays\\Arrays.csproj",
       "projectName": "Arrays",
-      "projectPath": "P:\\BRD\\Training\\CS\\Arrays\\Arrays.csproj",
+      "projectPath": "P:\\BRD\\Training\\CS\\fantastic-funicular\\Arrays\\Arrays.csproj",
       "packagesPath": "C:\\Users\\carlvinm\\.nuget\\packages\\",
-      "outputPath": "P:\\BRD\\Training\\CS\\Arrays\\obj\\",
+      "outputPath": "P:\\BRD\\Training\\CS\\fantastic-funicular\\Arrays\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\carlvinm\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\BRD\\Training\\CS\\MadLibsGame\\MadLibsGame.csproj": {}
+    "P:\\BRD\\Training\\CS\\fantastic-funicular\\MadLibsGame\\MadLibsGame.csproj": {}
   },
   "projects": {
-    "P:\\BRD\\Training\\CS\\MadLibsGame\\MadLibsGame.csproj": {
+    "P:\\BRD\\Training\\CS\\fantastic-funicular\\MadLibsGame\\MadLibsGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\BRD\\Training\\CS\\MadLibsGame\\MadLibsGame.csproj",
+        "projectUniqueName": "P:\\BRD\\Training\\CS\\fantastic-funicular\\MadLibsGame\\MadLibsGame.csproj",
         "projectName": "MadLibsGame",
-        "projectPath": "P:\\BRD\\Training\\CS\\MadLibsGame\\MadLibsGame.csproj",
+        "projectPath": "P:\\BRD\\Training\\CS\\fantastic-funicular\\MadLibsGame\\MadLibsGame.csproj",
         "packagesPath": "C:\\Users\\carlvinm\\.nuget\\packages\\",
-        "outputPath": "P:\\BRD\\Training\\CS\\MadLibsGame\\obj\\",
+        "outputPath": "P:\\BRD\\Training\\CS\\fantastic-funicular\\MadLibsGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carlvinm\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\BRD\\Training\\CS\\StringActions\\StringActions.csproj": {}
+    "P:\\BRD\\Training\\CS\\fantastic-funicular\\StringActions\\StringActions.csproj": {}
   },
   "projects": {
-    "P:\\BRD\\Training\\CS\\StringActions\\StringActions.csproj": {
+    "P:\\BRD\\Training\\CS\\fantastic-funicular\\StringActions\\StringActions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\BRD\\Training\\CS\\StringActions\\StringActions.csproj",
+        "projectUniqueName": "P:\\BRD\\Training\\CS\\fantastic-funicular\\StringActions\\StringActions.csproj",
         "projectName": "StringActions",
-        "projectPath": "P:\\BRD\\Training\\CS\\StringActions\\StringActions.csproj",
+        "projectPath": "P:\\BRD\\Training\\CS\\fantastic-funicular\\StringActions\\StringActions.csproj",
         "packagesPath": "C:\\Users\\carlvinm\\.nuget\\packages\\",
-        "outputPath": "P:\\BRD\\Training\\CS\\StringActions\\obj\\",
+        "outputPath": "P:\\BRD\\Training\\CS\\fantastic-funicular\\StringActions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carlvinm\\AppData\\Roaming\\NuGet\\NuGet.Config",

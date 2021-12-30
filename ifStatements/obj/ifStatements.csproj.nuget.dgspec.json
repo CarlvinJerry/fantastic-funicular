@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\BRD\\Training\\CS\\ifStatements\\ifStatements.csproj": {}
+    "P:\\BRD\\Training\\CS\\fantastic-funicular\\ifStatements\\ifStatements.csproj": {}
   },
   "projects": {
-    "P:\\BRD\\Training\\CS\\ifStatements\\ifStatements.csproj": {
+    "P:\\BRD\\Training\\CS\\fantastic-funicular\\ifStatements\\ifStatements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\BRD\\Training\\CS\\ifStatements\\ifStatements.csproj",
+        "projectUniqueName": "P:\\BRD\\Training\\CS\\fantastic-funicular\\ifStatements\\ifStatements.csproj",
         "projectName": "ifStatements",
-        "projectPath": "P:\\BRD\\Training\\CS\\ifStatements\\ifStatements.csproj",
+        "projectPath": "P:\\BRD\\Training\\CS\\fantastic-funicular\\ifStatements\\ifStatements.csproj",
         "packagesPath": "C:\\Users\\carlvinm\\.nuget\\packages\\",
-        "outputPath": "P:\\BRD\\Training\\CS\\ifStatements\\obj\\",
+        "outputPath": "P:\\BRD\\Training\\CS\\fantastic-funicular\\ifStatements\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carlvinm\\AppData\\Roaming\\NuGet\\NuGet.Config",

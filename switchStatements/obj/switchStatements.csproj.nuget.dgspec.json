@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\BRD\\Training\\CS\\switchStatements\\switchStatements.csproj": {}
+    "P:\\BRD\\Training\\CS\\fantastic-funicular\\switchStatements\\switchStatements.csproj": {}
   },
   "projects": {
-    "P:\\BRD\\Training\\CS\\switchStatements\\switchStatements.csproj": {
+    "P:\\BRD\\Training\\CS\\fantastic-funicular\\switchStatements\\switchStatements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\BRD\\Training\\CS\\switchStatements\\switchStatements.csproj",
+        "projectUniqueName": "P:\\BRD\\Training\\CS\\fantastic-funicular\\switchStatements\\switchStatements.csproj",
         "projectName": "switchStatements",
-        "projectPath": "P:\\BRD\\Training\\CS\\switchStatements\\switchStatements.csproj",
+        "projectPath": "P:\\BRD\\Training\\CS\\fantastic-funicular\\switchStatements\\switchStatements.csproj",
         "packagesPath": "C:\\Users\\carlvinm\\.nuget\\packages\\",
-        "outputPath": "P:\\BRD\\Training\\CS\\switchStatements\\obj\\",
+        "outputPath": "P:\\BRD\\Training\\CS\\fantastic-funicular\\switchStatements\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carlvinm\\AppData\\Roaming\\NuGet\\NuGet.Config",

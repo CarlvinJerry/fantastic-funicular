@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\BRD\\Training\\CS\\CalculatorGame\\CalculatorGame.csproj": {}
+    "P:\\BRD\\Training\\CS\\fantastic-funicular\\CalculatorGame\\CalculatorGame.csproj": {}
   },
   "projects": {
-    "P:\\BRD\\Training\\CS\\CalculatorGame\\CalculatorGame.csproj": {
+    "P:\\BRD\\Training\\CS\\fantastic-funicular\\CalculatorGame\\CalculatorGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\BRD\\Training\\CS\\CalculatorGame\\CalculatorGame.csproj",
+        "projectUniqueName": "P:\\BRD\\Training\\CS\\fantastic-funicular\\CalculatorGame\\CalculatorGame.csproj",
         "projectName": "CalculatorGame",
-        "projectPath": "P:\\BRD\\Training\\CS\\CalculatorGame\\CalculatorGame.csproj",
+        "projectPath": "P:\\BRD\\Training\\CS\\fantastic-funicular\\CalculatorGame\\CalculatorGame.csproj",
         "packagesPath": "C:\\Users\\carlvinm\\.nuget\\packages\\",
-        "outputPath": "P:\\BRD\\Training\\CS\\CalculatorGame\\obj\\",
+        "outputPath": "P:\\BRD\\Training\\CS\\fantastic-funicular\\CalculatorGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carlvinm\\AppData\\Roaming\\NuGet\\NuGet.Config",

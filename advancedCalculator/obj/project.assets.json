@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\BRD\\Training\\CS\\advancedCalculator\\advancedCalculator.csproj",
+      "projectUniqueName": "P:\\BRD\\Training\\CS\\fantastic-funicular\\advancedCalculator\\advancedCalculator.csproj",
       "projectName": "advancedCalculator",
-      "projectPath": "P:\\BRD\\Training\\CS\\advancedCalculator\\advancedCalculator.csproj",
+      "projectPath": "P:\\BRD\\Training\\CS\\fantastic-funicular\\advancedCalculator\\advancedCalculator.csproj",
       "packagesPath": "C:\\Users\\carlvinm\\.nuget\\packages\\",
-      "outputPath": "P:\\BRD\\Training\\CS\\advancedCalculator\\obj\\",
+      "outputPath": "P:\\BRD\\Training\\CS\\fantastic-funicular\\advancedCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\carlvinm\\AppData\\Roaming\\NuGet\\NuGet.Config",

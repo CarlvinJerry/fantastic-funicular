@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\BRD\\Training\\CS\\UserInput\\UserInput.csproj",
+      "projectUniqueName": "P:\\BRD\\Training\\CS\\fantastic-funicular\\UserInput\\UserInput.csproj",
       "projectName": "UserInput",
-      "projectPath": "P:\\BRD\\Training\\CS\\UserInput\\UserInput.csproj",
+      "projectPath": "P:\\BRD\\Training\\CS\\fantastic-funicular\\UserInput\\UserInput.csproj",
       "packagesPath": "C:\\Users\\carlvinm\\.nuget\\packages\\",
-      "outputPath": "P:\\BRD\\Training\\CS\\UserInput\\obj\\",
+      "outputPath": "P:\\BRD\\Training\\CS\\fantastic-funicular\\UserInput\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\carlvinm\\AppData\\Roaming\\NuGet\\NuGet.Config",

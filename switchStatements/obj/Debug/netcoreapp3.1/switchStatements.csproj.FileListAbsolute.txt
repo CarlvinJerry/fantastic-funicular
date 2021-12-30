@@ -1,0 +1,12 @@
+P:\BRD\Training\CS\fantastic-funicular\switchStatements\bin\Debug\netcoreapp3.1\switchStatements.exe
+P:\BRD\Training\CS\fantastic-funicular\switchStatements\bin\Debug\netcoreapp3.1\switchStatements.deps.json
+P:\BRD\Training\CS\fantastic-funicular\switchStatements\bin\Debug\netcoreapp3.1\switchStatements.runtimeconfig.json
+P:\BRD\Training\CS\fantastic-funicular\switchStatements\bin\Debug\netcoreapp3.1\switchStatements.runtimeconfig.dev.json
+P:\BRD\Training\CS\fantastic-funicular\switchStatements\bin\Debug\netcoreapp3.1\switchStatements.dll
+P:\BRD\Training\CS\fantastic-funicular\switchStatements\bin\Debug\netcoreapp3.1\switchStatements.pdb
+P:\BRD\Training\CS\fantastic-funicular\switchStatements\obj\Debug\netcoreapp3.1\switchStatements.AssemblyInfoInputs.cache
+P:\BRD\Training\CS\fantastic-funicular\switchStatements\obj\Debug\netcoreapp3.1\switchStatements.AssemblyInfo.cs
+P:\BRD\Training\CS\fantastic-funicular\switchStatements\obj\Debug\netcoreapp3.1\switchStatements.csproj.CoreCompileInputs.cache
+P:\BRD\Training\CS\fantastic-funicular\switchStatements\obj\Debug\netcoreapp3.1\switchStatements.dll
+P:\BRD\Training\CS\fantastic-funicular\switchStatements\obj\Debug\netcoreapp3.1\switchStatements.pdb
+P:\BRD\Training\CS\fantastic-funicular\switchStatements\obj\Debug\netcoreapp3.1\switchStatements.genruntimeconfig.cache
