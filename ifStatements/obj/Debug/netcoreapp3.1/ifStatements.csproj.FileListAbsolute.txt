@@ -1,0 +1,12 @@
+P:\BRD\Training\CS\ifStatements\bin\Debug\netcoreapp3.1\ifStatements.exe
+P:\BRD\Training\CS\ifStatements\bin\Debug\netcoreapp3.1\ifStatements.deps.json
+P:\BRD\Training\CS\ifStatements\bin\Debug\netcoreapp3.1\ifStatements.runtimeconfig.json
+P:\BRD\Training\CS\ifStatements\bin\Debug\netcoreapp3.1\ifStatements.runtimeconfig.dev.json
+P:\BRD\Training\CS\ifStatements\bin\Debug\netcoreapp3.1\ifStatements.dll
+P:\BRD\Training\CS\ifStatements\bin\Debug\netcoreapp3.1\ifStatements.pdb
+P:\BRD\Training\CS\ifStatements\obj\Debug\netcoreapp3.1\ifStatements.AssemblyInfoInputs.cache
+P:\BRD\Training\CS\ifStatements\obj\Debug\netcoreapp3.1\ifStatements.AssemblyInfo.cs
+P:\BRD\Training\CS\ifStatements\obj\Debug\netcoreapp3.1\ifStatements.csproj.CoreCompileInputs.cache
+P:\BRD\Training\CS\ifStatements\obj\Debug\netcoreapp3.1\ifStatements.dll
+P:\BRD\Training\CS\ifStatements\obj\Debug\netcoreapp3.1\ifStatements.pdb
+P:\BRD\Training\CS\ifStatements\obj\Debug\netcoreapp3.1\ifStatements.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+P:\BRD\Training\CS\Giraffe\bin\Debug\netcoreapp3.1\Giraffe.exe
+P:\BRD\Training\CS\Giraffe\bin\Debug\netcoreapp3.1\Giraffe.deps.json
+P:\BRD\Training\CS\Giraffe\bin\Debug\netcoreapp3.1\Giraffe.runtimeconfig.json
+P:\BRD\Training\CS\Giraffe\bin\Debug\netcoreapp3.1\Giraffe.runtimeconfig.dev.json
+P:\BRD\Training\CS\Giraffe\bin\Debug\netcoreapp3.1\Giraffe.dll
+P:\BRD\Training\CS\Giraffe\bin\Debug\netcoreapp3.1\Giraffe.pdb
+P:\BRD\Training\CS\Giraffe\obj\Debug\netcoreapp3.1\Giraffe.csprojAssemblyReference.cache
+P:\BRD\Training\CS\Giraffe\obj\Debug\netcoreapp3.1\Giraffe.AssemblyInfoInputs.cache
+P:\BRD\Training\CS\Giraffe\obj\Debug\netcoreapp3.1\Giraffe.AssemblyInfo.cs
+P:\BRD\Training\CS\Giraffe\obj\Debug\netcoreapp3.1\Giraffe.csproj.CoreCompileInputs.cache
+P:\BRD\Training\CS\Giraffe\obj\Debug\netcoreapp3.1\Giraffe.dll
+P:\BRD\Training\CS\Giraffe\obj\Debug\netcoreapp3.1\Giraffe.pdb
+P:\BRD\Training\CS\Giraffe\obj\Debug\netcoreapp3.1\Giraffe.genruntimeconfig.cache

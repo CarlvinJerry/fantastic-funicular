@@ -1,0 +1,13 @@
+P:\BRD\Training\CS\CalculatorGame\bin\Debug\netcoreapp3.1\CalculatorGame.exe
+P:\BRD\Training\CS\CalculatorGame\bin\Debug\netcoreapp3.1\CalculatorGame.deps.json
+P:\BRD\Training\CS\CalculatorGame\bin\Debug\netcoreapp3.1\CalculatorGame.runtimeconfig.json
+P:\BRD\Training\CS\CalculatorGame\bin\Debug\netcoreapp3.1\CalculatorGame.runtimeconfig.dev.json
+P:\BRD\Training\CS\CalculatorGame\bin\Debug\netcoreapp3.1\CalculatorGame.dll
+P:\BRD\Training\CS\CalculatorGame\bin\Debug\netcoreapp3.1\CalculatorGame.pdb
+P:\BRD\Training\CS\CalculatorGame\obj\Debug\netcoreapp3.1\CalculatorGame.csprojAssemblyReference.cache
+P:\BRD\Training\CS\CalculatorGame\obj\Debug\netcoreapp3.1\CalculatorGame.AssemblyInfoInputs.cache
+P:\BRD\Training\CS\CalculatorGame\obj\Debug\netcoreapp3.1\CalculatorGame.AssemblyInfo.cs
+P:\BRD\Training\CS\CalculatorGame\obj\Debug\netcoreapp3.1\CalculatorGame.csproj.CoreCompileInputs.cache
+P:\BRD\Training\CS\CalculatorGame\obj\Debug\netcoreapp3.1\CalculatorGame.dll
+P:\BRD\Training\CS\CalculatorGame\obj\Debug\netcoreapp3.1\CalculatorGame.pdb
+P:\BRD\Training\CS\CalculatorGame\obj\Debug\netcoreapp3.1\CalculatorGame.genruntimeconfig.cache

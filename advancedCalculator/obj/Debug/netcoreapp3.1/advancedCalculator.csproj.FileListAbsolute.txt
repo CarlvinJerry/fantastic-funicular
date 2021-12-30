@@ -1,0 +1,12 @@
+P:\BRD\Training\CS\advancedCalculator\bin\Debug\netcoreapp3.1\advancedCalculator.exe
+P:\BRD\Training\CS\advancedCalculator\bin\Debug\netcoreapp3.1\advancedCalculator.deps.json
+P:\BRD\Training\CS\advancedCalculator\bin\Debug\netcoreapp3.1\advancedCalculator.runtimeconfig.json
+P:\BRD\Training\CS\advancedCalculator\bin\Debug\netcoreapp3.1\advancedCalculator.runtimeconfig.dev.json
+P:\BRD\Training\CS\advancedCalculator\bin\Debug\netcoreapp3.1\advancedCalculator.dll
+P:\BRD\Training\CS\advancedCalculator\bin\Debug\netcoreapp3.1\advancedCalculator.pdb
+P:\BRD\Training\CS\advancedCalculator\obj\Debug\netcoreapp3.1\advancedCalculator.AssemblyInfoInputs.cache
+P:\BRD\Training\CS\advancedCalculator\obj\Debug\netcoreapp3.1\advancedCalculator.AssemblyInfo.cs
+P:\BRD\Training\CS\advancedCalculator\obj\Debug\netcoreapp3.1\advancedCalculator.csproj.CoreCompileInputs.cache
+P:\BRD\Training\CS\advancedCalculator\obj\Debug\netcoreapp3.1\advancedCalculator.dll
+P:\BRD\Training\CS\advancedCalculator\obj\Debug\netcoreapp3.1\advancedCalculator.pdb
+P:\BRD\Training\CS\advancedCalculator\obj\Debug\netcoreapp3.1\advancedCalculator.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+P:\BRD\Training\CS\MadLibsGame\bin\Debug\netcoreapp3.1\MadLibsGame.exe
+P:\BRD\Training\CS\MadLibsGame\bin\Debug\netcoreapp3.1\MadLibsGame.deps.json
+P:\BRD\Training\CS\MadLibsGame\bin\Debug\netcoreapp3.1\MadLibsGame.runtimeconfig.json
+P:\BRD\Training\CS\MadLibsGame\bin\Debug\netcoreapp3.1\MadLibsGame.runtimeconfig.dev.json
+P:\BRD\Training\CS\MadLibsGame\bin\Debug\netcoreapp3.1\MadLibsGame.dll
+P:\BRD\Training\CS\MadLibsGame\bin\Debug\netcoreapp3.1\MadLibsGame.pdb
+P:\BRD\Training\CS\MadLibsGame\obj\Debug\netcoreapp3.1\MadLibsGame.csprojAssemblyReference.cache
+P:\BRD\Training\CS\MadLibsGame\obj\Debug\netcoreapp3.1\MadLibsGame.AssemblyInfoInputs.cache
+P:\BRD\Training\CS\MadLibsGame\obj\Debug\netcoreapp3.1\MadLibsGame.AssemblyInfo.cs
+P:\BRD\Training\CS\MadLibsGame\obj\Debug\netcoreapp3.1\MadLibsGame.csproj.CoreCompileInputs.cache
+P:\BRD\Training\CS\MadLibsGame\obj\Debug\netcoreapp3.1\MadLibsGame.dll
+P:\BRD\Training\CS\MadLibsGame\obj\Debug\netcoreapp3.1\MadLibsGame.pdb
+P:\BRD\Training\CS\MadLibsGame\obj\Debug\netcoreapp3.1\MadLibsGame.genruntimeconfig.cache

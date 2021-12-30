@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "p79dqLa0qtPWdj/MU8NIqi09ciclNLywaC9tUymAxi9I6xrGKqpCWrMKTPVGYtHY5LRsJy3chJwIiZlzzrbLiw==",
+  "success": true,
+  "projectFilePath": "P:\\BRD\\Training\\CS\\MadLibsGame\\MadLibsGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carlvinm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\carlvinm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qeL0wPKNjx8xgvLynklQ1o26vemIi0gV+Fo6Q8+j9JWiHkprq4Tys/NN4XR98hr1eMfwJi+8fIvql7ozjvFHKQ==",
+  "success": true,
+  "projectFilePath": "P:\\BRD\\Training\\CS\\CalculatorGame\\CalculatorGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carlvinm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\carlvinm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

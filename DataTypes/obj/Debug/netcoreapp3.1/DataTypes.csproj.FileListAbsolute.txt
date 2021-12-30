@@ -1,0 +1,13 @@
+P:\BRD\Training\CS\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.AssemblyInfoInputs.cache
+P:\BRD\Training\CS\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.AssemblyInfo.cs
+P:\BRD\Training\CS\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.csproj.CoreCompileInputs.cache
+P:\BRD\Training\CS\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.exe
+P:\BRD\Training\CS\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.deps.json
+P:\BRD\Training\CS\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.runtimeconfig.json
+P:\BRD\Training\CS\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.runtimeconfig.dev.json
+P:\BRD\Training\CS\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.dll
+P:\BRD\Training\CS\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.pdb
+P:\BRD\Training\CS\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.dll
+P:\BRD\Training\CS\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.pdb
+P:\BRD\Training\CS\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.genruntimeconfig.cache
+P:\BRD\Training\CS\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.csprojAssemblyReference.cache

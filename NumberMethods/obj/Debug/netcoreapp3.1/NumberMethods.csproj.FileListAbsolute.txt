@@ -1,0 +1,12 @@
+P:\BRD\Training\CS\NumberMethods\bin\Debug\netcoreapp3.1\NumberMethods.exe
+P:\BRD\Training\CS\NumberMethods\bin\Debug\netcoreapp3.1\NumberMethods.deps.json
+P:\BRD\Training\CS\NumberMethods\bin\Debug\netcoreapp3.1\NumberMethods.runtimeconfig.json
+P:\BRD\Training\CS\NumberMethods\bin\Debug\netcoreapp3.1\NumberMethods.runtimeconfig.dev.json
+P:\BRD\Training\CS\NumberMethods\bin\Debug\netcoreapp3.1\NumberMethods.dll
+P:\BRD\Training\CS\NumberMethods\bin\Debug\netcoreapp3.1\NumberMethods.pdb
+P:\BRD\Training\CS\NumberMethods\obj\Debug\netcoreapp3.1\NumberMethods.AssemblyInfoInputs.cache
+P:\BRD\Training\CS\NumberMethods\obj\Debug\netcoreapp3.1\NumberMethods.AssemblyInfo.cs
+P:\BRD\Training\CS\NumberMethods\obj\Debug\netcoreapp3.1\NumberMethods.csproj.CoreCompileInputs.cache
+P:\BRD\Training\CS\NumberMethods\obj\Debug\netcoreapp3.1\NumberMethods.dll
+P:\BRD\Training\CS\NumberMethods\obj\Debug\netcoreapp3.1\NumberMethods.pdb
+P:\BRD\Training\CS\NumberMethods\obj\Debug\netcoreapp3.1\NumberMethods.genruntimeconfig.cache

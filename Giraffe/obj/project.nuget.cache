@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "njIwUsWdHmwUFVEEByUiNaUlep4RbELfkG2KBZnL2K4glRmFfdsFgW7J23tRwofLSspil+lTiPuwhQWh4eCe6w==",
+  "success": true,
+  "projectFilePath": "P:\\BRD\\Training\\CS\\Giraffe\\Giraffe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carlvinm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\carlvinm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+P:\BRD\Training\CS\StringActions\bin\Debug\netcoreapp3.1\StringActions.exe
+P:\BRD\Training\CS\StringActions\bin\Debug\netcoreapp3.1\StringActions.deps.json
+P:\BRD\Training\CS\StringActions\bin\Debug\netcoreapp3.1\StringActions.runtimeconfig.json
+P:\BRD\Training\CS\StringActions\bin\Debug\netcoreapp3.1\StringActions.runtimeconfig.dev.json
+P:\BRD\Training\CS\StringActions\bin\Debug\netcoreapp3.1\StringActions.dll
+P:\BRD\Training\CS\StringActions\bin\Debug\netcoreapp3.1\StringActions.pdb
+P:\BRD\Training\CS\StringActions\obj\Debug\netcoreapp3.1\StringActions.AssemblyInfoInputs.cache
+P:\BRD\Training\CS\StringActions\obj\Debug\netcoreapp3.1\StringActions.AssemblyInfo.cs
+P:\BRD\Training\CS\StringActions\obj\Debug\netcoreapp3.1\StringActions.csproj.CoreCompileInputs.cache
+P:\BRD\Training\CS\StringActions\obj\Debug\netcoreapp3.1\StringActions.dll
+P:\BRD\Training\CS\StringActions\obj\Debug\netcoreapp3.1\StringActions.pdb
+P:\BRD\Training\CS\StringActions\obj\Debug\netcoreapp3.1\StringActions.genruntimeconfig.cache
