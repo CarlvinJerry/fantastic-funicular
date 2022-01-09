@@ -1,0 +1,12 @@
+P:\BRD\Training\CS\fantastic-funicular\2dArrays\bin\Debug\netcoreapp3.1\2dArrays.exe
+P:\BRD\Training\CS\fantastic-funicular\2dArrays\bin\Debug\netcoreapp3.1\2dArrays.deps.json
+P:\BRD\Training\CS\fantastic-funicular\2dArrays\bin\Debug\netcoreapp3.1\2dArrays.runtimeconfig.json
+P:\BRD\Training\CS\fantastic-funicular\2dArrays\bin\Debug\netcoreapp3.1\2dArrays.runtimeconfig.dev.json
+P:\BRD\Training\CS\fantastic-funicular\2dArrays\bin\Debug\netcoreapp3.1\2dArrays.dll
+P:\BRD\Training\CS\fantastic-funicular\2dArrays\bin\Debug\netcoreapp3.1\2dArrays.pdb
+P:\BRD\Training\CS\fantastic-funicular\2dArrays\obj\Debug\netcoreapp3.1\2dArrays.AssemblyInfoInputs.cache
+P:\BRD\Training\CS\fantastic-funicular\2dArrays\obj\Debug\netcoreapp3.1\2dArrays.AssemblyInfo.cs
+P:\BRD\Training\CS\fantastic-funicular\2dArrays\obj\Debug\netcoreapp3.1\2dArrays.csproj.CoreCompileInputs.cache
+P:\BRD\Training\CS\fantastic-funicular\2dArrays\obj\Debug\netcoreapp3.1\2dArrays.dll
+P:\BRD\Training\CS\fantastic-funicular\2dArrays\obj\Debug\netcoreapp3.1\2dArrays.pdb
+P:\BRD\Training\CS\fantastic-funicular\2dArrays\obj\Debug\netcoreapp3.1\2dArrays.genruntimeconfig.cache

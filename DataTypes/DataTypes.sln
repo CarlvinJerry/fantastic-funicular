@@ -35,6 +35,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForLoops", "..\ForLoops\For
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExponentMethods", "..\ExponentMethods\ExponentMethods.csproj", "{B311C033-501D-4E33-B6A9-715645B82C6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2dArrays", "..\2dArrays\2dArrays.csproj", "{A1C2BC1A-7880-4205-AA9D-C8210864D02A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{B311C033-501D-4E33-B6A9-715645B82C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B311C033-501D-4E33-B6A9-715645B82C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B311C033-501D-4E33-B6A9-715645B82C6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C2BC1A-7880-4205-AA9D-C8210864D02A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C2BC1A-7880-4205-AA9D-C8210864D02A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C2BC1A-7880-4205-AA9D-C8210864D02A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C2BC1A-7880-4205-AA9D-C8210864D02A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "00C2QQ/uJ+X7It+4z7gSwirAExUh0tKfz25i7Php8zaj5yuUFZQSnKhJUnLvwjEOIGeffOOTecKRq3F10EcXYg==",
+  "success": true,
+  "projectFilePath": "P:\\BRD\\Training\\CS\\fantastic-funicular\\2dArrays\\2dArrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carlvinm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\carlvinm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
