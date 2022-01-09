@@ -14,6 +14,13 @@ namespace _2dArrays //two dimesional arrays
             };
 
             //Accessing elelements in array...row i, col j
+
+            /* this is a prolonged commetn
+             * fjskhsdf
+             * sf'snklnsvnsd
+             * sd
+             * nvsdlnvsdv
+             * svnsdnvsdvs*/
             Console.WriteLine(numberGrid[1, 1]);
         }
     }
