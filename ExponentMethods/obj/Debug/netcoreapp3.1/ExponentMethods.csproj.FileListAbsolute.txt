@@ -1,0 +1,12 @@
+P:\BRD\Training\CS\fantastic-funicular\ExponentMethods\bin\Debug\netcoreapp3.1\ExponentMethods.exe
+P:\BRD\Training\CS\fantastic-funicular\ExponentMethods\bin\Debug\netcoreapp3.1\ExponentMethods.deps.json
+P:\BRD\Training\CS\fantastic-funicular\ExponentMethods\bin\Debug\netcoreapp3.1\ExponentMethods.runtimeconfig.json
+P:\BRD\Training\CS\fantastic-funicular\ExponentMethods\bin\Debug\netcoreapp3.1\ExponentMethods.runtimeconfig.dev.json
+P:\BRD\Training\CS\fantastic-funicular\ExponentMethods\bin\Debug\netcoreapp3.1\ExponentMethods.dll
+P:\BRD\Training\CS\fantastic-funicular\ExponentMethods\bin\Debug\netcoreapp3.1\ExponentMethods.pdb
+P:\BRD\Training\CS\fantastic-funicular\ExponentMethods\obj\Debug\netcoreapp3.1\ExponentMethods.AssemblyInfoInputs.cache
+P:\BRD\Training\CS\fantastic-funicular\ExponentMethods\obj\Debug\netcoreapp3.1\ExponentMethods.AssemblyInfo.cs
+P:\BRD\Training\CS\fantastic-funicular\ExponentMethods\obj\Debug\netcoreapp3.1\ExponentMethods.csproj.CoreCompileInputs.cache
+P:\BRD\Training\CS\fantastic-funicular\ExponentMethods\obj\Debug\netcoreapp3.1\ExponentMethods.dll
+P:\BRD\Training\CS\fantastic-funicular\ExponentMethods\obj\Debug\netcoreapp3.1\ExponentMethods.pdb
+P:\BRD\Training\CS\fantastic-funicular\ExponentMethods\obj\Debug\netcoreapp3.1\ExponentMethods.genruntimeconfig.cache

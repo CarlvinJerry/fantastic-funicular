@@ -6,6 +6,7 @@ namespace ForLoops //These loops allow us to keep track of iterating variables
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(GetPow(3, 2));
             //int i = 1;
             //while(i <= 5)
             //{
@@ -20,12 +21,27 @@ namespace ForLoops //These loops allow us to keep track of iterating variables
             }
 
 
-            //Lucku numbers
+            //Lucky numbers
             for (int i = 0; i < luckuNumbers.Length; i++)
             {
                 Console.WriteLine(luckuNumbers[i]);
                 
             }
+        }
+
+
+        static int GetPow(int baseNum, int powNum)
+        {
+            int result = 1;
+
+            for (int i = 0; i < powNum; i++)
+            {
+                result = result * baseNum;
+            }
+
+
+
+            return result;
         }
     }
 }
