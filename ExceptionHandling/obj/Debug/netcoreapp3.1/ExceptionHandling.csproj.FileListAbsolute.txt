@@ -1,0 +1,12 @@
+P:\BRD\Training\CS\fantastic-funicular\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.exe
+P:\BRD\Training\CS\fantastic-funicular\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.deps.json
+P:\BRD\Training\CS\fantastic-funicular\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.json
+P:\BRD\Training\CS\fantastic-funicular\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.dev.json
+P:\BRD\Training\CS\fantastic-funicular\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.dll
+P:\BRD\Training\CS\fantastic-funicular\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.pdb
+P:\BRD\Training\CS\fantastic-funicular\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfoInputs.cache
+P:\BRD\Training\CS\fantastic-funicular\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfo.cs
+P:\BRD\Training\CS\fantastic-funicular\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csproj.CoreCompileInputs.cache
+P:\BRD\Training\CS\fantastic-funicular\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.dll
+P:\BRD\Training\CS\fantastic-funicular\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.pdb
+P:\BRD\Training\CS\fantastic-funicular\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.genruntimeconfig.cache

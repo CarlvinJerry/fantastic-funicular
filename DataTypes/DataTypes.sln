@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExponentMethods", "..\Expon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2dArrays", "..\2dArrays\2dArrays.csproj", "{A1C2BC1A-7880-4205-AA9D-C8210864D02A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "..\ExceptionHandling\ExceptionHandling.csproj", "{16FD3DA7-E753-4AF1-AB47-20A061FB423B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{A1C2BC1A-7880-4205-AA9D-C8210864D02A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1C2BC1A-7880-4205-AA9D-C8210864D02A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1C2BC1A-7880-4205-AA9D-C8210864D02A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16FD3DA7-E753-4AF1-AB47-20A061FB423B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16FD3DA7-E753-4AF1-AB47-20A061FB423B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16FD3DA7-E753-4AF1-AB47-20A061FB423B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16FD3DA7-E753-4AF1-AB47-20A061FB423B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
