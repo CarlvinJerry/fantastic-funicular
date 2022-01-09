@@ -27,11 +27,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "advancedCalculator", "..\ad
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "switchStatements", "..\switchStatements\switchStatements.csproj", "{40E5DBC1-4BD5-4DB0-88AF-1C1A9D3268EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileLoops", "..\WhileLoops\WhileLoops.csproj", "{82C27D72-19DA-4B22-A8C5-BD855B3B7010}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileLoops", "..\WhileLoops\WhileLoops.csproj", "{82C27D72-19DA-4B22-A8C5-BD855B3B7010}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessingGame", "..\GuessingGame\GuessingGame.csproj", "{C7D7553F-924C-4837-8D97-126B1C6B949C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuessingGame", "..\GuessingGame\GuessingGame.csproj", "{C7D7553F-924C-4837-8D97-126B1C6B949C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoops", "..\ForLoops\ForLoops.csproj", "{6D5778E8-95A4-4A1A-89E9-80F41D0C7716}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForLoops", "..\ForLoops\ForLoops.csproj", "{6D5778E8-95A4-4A1A-89E9-80F41D0C7716}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExponentMethods", "..\ExponentMethods\ExponentMethods.csproj", "{B311C033-501D-4E33-B6A9-715645B82C6E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{6D5778E8-95A4-4A1A-89E9-80F41D0C7716}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D5778E8-95A4-4A1A-89E9-80F41D0C7716}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D5778E8-95A4-4A1A-89E9-80F41D0C7716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B311C033-501D-4E33-B6A9-715645B82C6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B311C033-501D-4E33-B6A9-715645B82C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B311C033-501D-4E33-B6A9-715645B82C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B311C033-501D-4E33-B6A9-715645B82C6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

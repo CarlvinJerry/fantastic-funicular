@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hU1JT3N8P43jD8ZmitEbij5nAk5L3L02t7kraoWXQYSCcZcqQpDMByPxPz+ioeJ4/LN+dedkTpDuTHMFSoy7iQ==",
+  "success": true,
+  "projectFilePath": "P:\\BRD\\Training\\CS\\fantastic-funicular\\ExponentMethods\\ExponentMethods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carlvinm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\carlvinm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

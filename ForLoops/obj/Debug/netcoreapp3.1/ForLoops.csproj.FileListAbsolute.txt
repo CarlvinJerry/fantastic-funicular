@@ -1,0 +1,12 @@
+P:\BRD\Training\CS\fantastic-funicular\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.exe
+P:\BRD\Training\CS\fantastic-funicular\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.deps.json
+P:\BRD\Training\CS\fantastic-funicular\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.runtimeconfig.json
+P:\BRD\Training\CS\fantastic-funicular\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.runtimeconfig.dev.json
+P:\BRD\Training\CS\fantastic-funicular\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.dll
+P:\BRD\Training\CS\fantastic-funicular\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.pdb
+P:\BRD\Training\CS\fantastic-funicular\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.AssemblyInfoInputs.cache
+P:\BRD\Training\CS\fantastic-funicular\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.AssemblyInfo.cs
+P:\BRD\Training\CS\fantastic-funicular\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.csproj.CoreCompileInputs.cache
+P:\BRD\Training\CS\fantastic-funicular\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.dll
+P:\BRD\Training\CS\fantastic-funicular\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.pdb
+P:\BRD\Training\CS\fantastic-funicular\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.genruntimeconfig.cache
