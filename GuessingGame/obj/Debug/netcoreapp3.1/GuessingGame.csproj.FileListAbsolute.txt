@@ -1,0 +1,12 @@
+P:\BRD\Training\CS\fantastic-funicular\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.exe
+P:\BRD\Training\CS\fantastic-funicular\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.deps.json
+P:\BRD\Training\CS\fantastic-funicular\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.runtimeconfig.json
+P:\BRD\Training\CS\fantastic-funicular\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.runtimeconfig.dev.json
+P:\BRD\Training\CS\fantastic-funicular\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.dll
+P:\BRD\Training\CS\fantastic-funicular\GuessingGame\bin\Debug\netcoreapp3.1\GuessingGame.pdb
+P:\BRD\Training\CS\fantastic-funicular\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.AssemblyInfoInputs.cache
+P:\BRD\Training\CS\fantastic-funicular\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.AssemblyInfo.cs
+P:\BRD\Training\CS\fantastic-funicular\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.csproj.CoreCompileInputs.cache
+P:\BRD\Training\CS\fantastic-funicular\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.dll
+P:\BRD\Training\CS\fantastic-funicular\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.pdb
+P:\BRD\Training\CS\fantastic-funicular\GuessingGame\obj\Debug\netcoreapp3.1\GuessingGame.genruntimeconfig.cache

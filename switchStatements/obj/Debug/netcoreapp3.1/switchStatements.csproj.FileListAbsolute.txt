@@ -10,3 +10,4 @@ P:\BRD\Training\CS\fantastic-funicular\switchStatements\obj\Debug\netcoreapp3.1\
 P:\BRD\Training\CS\fantastic-funicular\switchStatements\obj\Debug\netcoreapp3.1\switchStatements.dll
 P:\BRD\Training\CS\fantastic-funicular\switchStatements\obj\Debug\netcoreapp3.1\switchStatements.pdb
 P:\BRD\Training\CS\fantastic-funicular\switchStatements\obj\Debug\netcoreapp3.1\switchStatements.genruntimeconfig.cache
+P:\BRD\Training\CS\fantastic-funicular\switchStatements\obj\Debug\netcoreapp3.1\switchStatements.csprojAssemblyReference.cache

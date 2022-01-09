@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wVgiQzFJuXrz9atrap7zUIsNGb9dkD74X/VHTKppv0qSRO1bEi+G6z8uApElLHt1EiSi4x3NRa7ssCJcF6W8EQ==",
+  "success": true,
+  "projectFilePath": "P:\\BRD\\Training\\CS\\fantastic-funicular\\GuessingGame\\GuessingGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carlvinm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\carlvinm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

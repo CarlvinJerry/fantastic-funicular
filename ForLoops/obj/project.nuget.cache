@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9yRbtJ2EOMqdMMMGyDOKrqgMFAtPoZ78QaB2FAwxTf3Le2qANxGUimi4txLnNDSU5kydwrzt8VIx+7D4ayNxOg==",
+  "success": true,
+  "projectFilePath": "P:\\BRD\\Training\\CS\\fantastic-funicular\\ForLoops\\ForLoops.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carlvinm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\carlvinm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

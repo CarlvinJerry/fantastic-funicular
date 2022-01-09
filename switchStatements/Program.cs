@@ -7,7 +7,7 @@ namespace switchStatements // these are a special kind of if statemments that ca
         static void Main(string[] args)
         {   
 
-            Console.WriteLine(GetDay(49));
+            Console.WriteLine(GetDay(4));
         }
 
         //Method to convert numbers to days of the week.

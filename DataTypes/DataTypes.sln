@@ -17,15 +17,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MadLibsGame", "..\MadLibsGa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "..\Arrays\Arrays.csproj", "{F15F13E5-F226-42C1-8BED-1826BDB0D9BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methods", "..\methods\methods.csproj", "{3A349292-99A1-4622-8858-DE16D4A3C38F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "methods", "..\methods\methods.csproj", "{3A349292-99A1-4622-8858-DE16D4A3C38F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "returnStatement", "..\returnStatement\returnStatement.csproj", "{94E74D93-D39F-475B-A07C-63968E7749B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "returnStatement", "..\returnStatement\returnStatement.csproj", "{94E74D93-D39F-475B-A07C-63968E7749B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifStatements", "..\ifStatements\ifStatements.csproj", "{6549B0AB-F5CB-41D0-89B6-798B57D10322}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ifStatements", "..\ifStatements\ifStatements.csproj", "{6549B0AB-F5CB-41D0-89B6-798B57D10322}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "advancedCalculator", "..\advancedCalculator\advancedCalculator.csproj", "{878867F4-DCBB-4938-8FF3-00393516CE36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "advancedCalculator", "..\advancedCalculator\advancedCalculator.csproj", "{878867F4-DCBB-4938-8FF3-00393516CE36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switchStatements", "..\switchStatements\switchStatements.csproj", "{40E5DBC1-4BD5-4DB0-88AF-1C1A9D3268EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "switchStatements", "..\switchStatements\switchStatements.csproj", "{40E5DBC1-4BD5-4DB0-88AF-1C1A9D3268EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileLoops", "..\WhileLoops\WhileLoops.csproj", "{82C27D72-19DA-4B22-A8C5-BD855B3B7010}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessingGame", "..\GuessingGame\GuessingGame.csproj", "{C7D7553F-924C-4837-8D97-126B1C6B949C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoops", "..\ForLoops\ForLoops.csproj", "{6D5778E8-95A4-4A1A-89E9-80F41D0C7716}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +87,18 @@ Global
 		{40E5DBC1-4BD5-4DB0-88AF-1C1A9D3268EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40E5DBC1-4BD5-4DB0-88AF-1C1A9D3268EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40E5DBC1-4BD5-4DB0-88AF-1C1A9D3268EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82C27D72-19DA-4B22-A8C5-BD855B3B7010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C27D72-19DA-4B22-A8C5-BD855B3B7010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82C27D72-19DA-4B22-A8C5-BD855B3B7010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82C27D72-19DA-4B22-A8C5-BD855B3B7010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7D7553F-924C-4837-8D97-126B1C6B949C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D7553F-924C-4837-8D97-126B1C6B949C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D7553F-924C-4837-8D97-126B1C6B949C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D7553F-924C-4837-8D97-126B1C6B949C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D5778E8-95A4-4A1A-89E9-80F41D0C7716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D5778E8-95A4-4A1A-89E9-80F41D0C7716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D5778E8-95A4-4A1A-89E9-80F41D0C7716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D5778E8-95A4-4A1A-89E9-80F41D0C7716}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
